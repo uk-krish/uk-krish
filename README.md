@@ -2,11 +2,6 @@
 ### Hi there, I'm Unnikrishnan 👋
 
 
-### Connect with me:
-
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg](https://icons8.com/icon/Xy10Jcu1L2Su/instagram)" />
 
 <br />
 
@@ -38,5 +33,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
+### Connect with me:
+
+<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://unpkg.com/simple-icons@v8/icons/twitter.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg](https://icons8.com/icon/Xy10Jcu1L2Su/instagram)" />
 - ⚡ Fun fact: ...
  -->
